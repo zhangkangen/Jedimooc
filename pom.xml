@@ -7,6 +7,10 @@
     <groupId>com.zhang</groupId>
     <artifactId>Jedimooc</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>mooc-api</module>
+        <module>mooc-service</module>
+    </modules>
     <packaging>pom</packaging>
 
     <parent>
