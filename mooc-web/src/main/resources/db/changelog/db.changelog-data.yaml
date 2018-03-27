@@ -1,0 +1,14 @@
+databaseChangeLog:
+  - changeSet:
+      id: 200
+      author: zxk
+      changes:
+        - insert:
+            tableName: sys_user
+            columns:
+              - column:
+                  name: username
+                  value: admin
+              - column:
+                  name: password
+                  value: admin
