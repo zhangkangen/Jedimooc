@@ -10,6 +10,7 @@
     <modules>
         <module>mooc-api</module>
         <module>mooc-service</module>
+        <module>mooc-web</module>
     </modules>
     <packaging>pom</packaging>
 
